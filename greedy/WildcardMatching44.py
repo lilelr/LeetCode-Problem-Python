@@ -1,5 +1,5 @@
 class Solution(object):
-    def is_match(self, s, p):
+    def isMatch(self, s, p):
         """
         :type s: str
         :type p: str
